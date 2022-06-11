@@ -16,7 +16,8 @@ def display_research_page():
 
     c1, c2, c3 = st.columns(3)
 
-    c2.markdown("Please contact the contributors of the project in case you are interested in the research and full version of the software. (Lucas's Email)[l.perasolovicentim@gmail.com]")
+    c2.markdown("Please contact the contributors of the project in case you are interested in the research and full version of the software.")
+    c2.write("Via: [Lucas's Email](l.perasolovicentim@gmail.com)")
 
     # # Opening file from file path
     # with open('data/paper/MDP.pdf', "rb") as f:
