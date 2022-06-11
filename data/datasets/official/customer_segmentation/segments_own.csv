@@ -1,0 +1,217 @@
+,user,action,Recency,Frequency,Monetary
+0,FVNIW,mail,1,3,2
+1,FVNIW,mail,20,9,7
+2,DJFVD,mail,1,16,7
+3,DJFVD,mail,20,3,2
+4,FVNIW,mail,1,16,7
+5,FVEVB,mail,20,16,7
+6,FVKEW,mail,1,9,2
+7,FVKEW,mail,20,9,2
+8,DJFVD,mail,1,16,7
+9,DJFVD,mail,1,9,7
+10,FVEVB,mail,9,3,5
+11,FVEVB,mail,9,3,5
+12,DJFVD,mail,9,9,2
+13,FVEVB,mail,9,9,7
+14,FVNIW,mail,1,3,7
+15,DJFVD,mail,1,3,7
+16,FVEVB,mail,1,16,5
+17,DNCIG,mail,1,9,2
+18,DJFVD,mail,20,9,5
+19,DJFVD,mail,1,16,5
+20,FVNIW,mail,9,9,2
+21,DJFVD,mail,20,9,7
+22,DNCIG,mail,1,3,7
+23,DNCIG,mail,20,9,7
+24,FVEVB,mail,9,16,7
+25,FVKEW,mail,20,3,7
+26,FVKEW,mail,1,3,2
+27,DNCIG,mail,9,16,2
+28,DJFVD,mail,1,9,7
+29,DNCIG,mail,20,9,7
+30,FVKEW,mail,9,16,7
+31,FVEVB,mail,1,9,2
+32,FVNIW,mail,1,9,5
+33,DJFVD,mail,1,3,7
+34,FVEVB,mail,9,3,7
+35,DJFVD,mail,1,16,7
+36,FVKEW,call,9,3,2
+37,DNCIG,call,20,3,2
+38,FVEVB,call,9,9,5
+39,FVKEW,call,1,9,5
+40,DNCIG,call,9,3,7
+41,FVEVB,call,20,9,5
+42,FVKEW,call,1,9,2
+43,DNCIG,call,1,3,7
+44,FVEVB,call,1,3,7
+45,FVKEW,call,20,3,7
+46,DNCIG,call,1,3,5
+47,FVEVB,call,9,16,7
+48,FVNIW,call,20,3,5
+49,FVKEW,call,20,9,7
+50,FVKEW,call,9,3,7
+51,FVKEW,call,9,9,2
+52,DNCIG,call,9,9,2
+53,FVEVB,call,9,9,5
+54,FVNIW,call,1,3,2
+55,FVKEW,call,9,3,2
+56,DJFVD,call,9,3,2
+57,DJFVD,call,1,9,7
+58,DJFVD,call,1,3,2
+59,DNCIG,call,20,16,2
+60,DJFVD,call,1,16,7
+61,FVNIW,call,9,16,2
+62,FVEVB,call,20,16,5
+63,DJFVD,call,9,3,7
+64,DJFVD,call,20,3,7
+65,FVEVB,call,9,3,7
+66,FVKEW,call,1,16,2
+67,FVEVB,call,9,16,5
+68,DNCIG,call,20,3,7
+69,DNCIG,call,9,16,5
+70,FVEVB,call,1,3,2
+71,FVKEW,call,9,9,5
+72,FVKEW,email,1,3,2
+73,FVKEW,email,20,16,5
+74,DJFVD,email,20,16,2
+75,FVNIW,email,9,3,2
+76,FVEVB,email,1,16,2
+77,FVNIW,email,20,3,2
+78,FVKEW,email,20,9,7
+79,DNCIG,email,1,3,2
+80,DNCIG,email,1,3,5
+81,FVNIW,email,20,16,5
+82,FVEVB,email,20,16,7
+83,FVNIW,email,1,3,5
+84,DJFVD,email,9,9,2
+85,FVKEW,email,20,3,7
+86,FVKEW,email,20,16,2
+87,FVNIW,email,9,9,5
+88,DJFVD,email,20,3,2
+89,DNCIG,email,20,9,2
+90,FVEVB,email,9,3,2
+91,FVEVB,email,20,9,2
+92,DNCIG,email,20,16,2
+93,FVKEW,email,1,9,2
+94,DJFVD,email,1,9,2
+95,FVNIW,email,1,9,5
+96,DJFVD,email,1,9,7
+97,DNCIG,email,9,9,5
+98,FVEVB,email,20,3,2
+99,FVNIW,email,9,3,7
+100,DNCIG,email,20,16,2
+101,FVKEW,email,20,9,7
+102,DNCIG,email,9,9,5
+103,DJFVD,email,1,3,2
+104,FVNIW,email,1,3,5
+105,FVEVB,email,20,9,2
+106,DNCIG,email,9,9,7
+107,FVEVB,email,9,3,7
+108,FVEVB,agent,20,16,7
+109,FVNIW,agent,20,9,7
+110,FVKEW,agent,1,16,7
+111,DJFVD,agent,20,3,5
+112,FVNIW,agent,9,9,7
+113,DNCIG,agent,9,9,5
+114,FVKEW,agent,9,16,5
+115,DJFVD,agent,1,16,2
+116,FVNIW,agent,9,16,2
+117,FVKEW,agent,20,9,2
+118,DNCIG,agent,20,16,2
+119,FVNIW,agent,1,3,2
+120,FVNIW,agent,20,9,5
+121,DNCIG,agent,9,16,2
+122,FVKEW,agent,9,9,5
+123,DJFVD,agent,20,16,2
+124,DNCIG,agent,20,9,2
+125,DJFVD,agent,20,9,2
+126,DJFVD,agent,20,3,7
+127,FVNIW,agent,1,9,2
+128,DNCIG,agent,9,16,2
+129,DJFVD,agent,9,9,5
+130,DNCIG,agent,1,9,2
+131,FVEVB,agent,20,3,2
+132,FVNIW,agent,1,16,5
+133,FVEVB,agent,1,9,5
+134,DJFVD,agent,9,3,7
+135,FVEVB,agent,20,9,7
+136,FVEVB,agent,9,3,7
+137,DJFVD,agent,20,3,5
+138,DNCIG,agent,20,3,5
+139,DNCIG,agent,20,16,5
+140,FVEVB,agent,1,9,7
+141,FVNIW,agent,9,16,5
+142,FVNIW,agent,9,3,2
+143,DNCIG,agent,20,16,5
+144,FVKEW,tv,9,16,7
+145,DJFVD,tv,20,9,2
+146,DJFVD,tv,20,16,5
+147,FVKEW,tv,20,3,5
+148,DNCIG,tv,1,16,7
+149,FVNIW,tv,9,3,2
+150,FVKEW,tv,9,3,5
+151,FVNIW,tv,1,3,2
+152,DNCIG,tv,1,9,5
+153,DJFVD,tv,20,3,5
+154,FVEVB,tv,1,3,2
+155,FVKEW,tv,20,3,7
+156,FVEVB,tv,9,16,7
+157,FVKEW,tv,1,9,7
+158,DJFVD,tv,9,9,5
+159,FVKEW,tv,20,9,2
+160,FVNIW,tv,9,16,7
+161,FVKEW,tv,20,16,5
+162,FVEVB,tv,20,9,5
+163,DNCIG,tv,20,9,2
+164,FVEVB,tv,9,16,2
+165,DNCIG,tv,1,9,7
+166,DJFVD,tv,1,16,7
+167,FVKEW,tv,1,16,5
+168,FVNIW,tv,1,16,5
+169,FVNIW,tv,20,3,7
+170,FVNIW,tv,20,3,2
+171,FVNIW,tv,20,9,2
+172,DJFVD,tv,9,3,7
+173,FVEVB,tv,9,3,2
+174,DJFVD,tv,20,3,5
+175,FVEVB,tv,20,3,5
+176,FVEVB,tv,20,9,2
+177,FVNIW,tv,1,9,5
+178,DNCIG,tv,1,3,7
+179,FVNIW,tv,9,16,2
+180,FVKEW,no contact,1,3,5
+181,FVEVB,no contact,1,3,2
+182,FVEVB,no contact,1,16,7
+183,FVNIW,no contact,9,9,2
+184,FVNIW,no contact,20,9,5
+185,DNCIG,no contact,1,3,2
+186,DJFVD,no contact,20,9,7
+187,FVEVB,no contact,1,9,5
+188,FVKEW,no contact,9,16,5
+189,DNCIG,no contact,1,9,2
+190,FVKEW,no contact,9,9,7
+191,FVEVB,no contact,9,3,7
+192,DNCIG,no contact,20,3,7
+193,FVNIW,no contact,9,3,2
+194,DNCIG,no contact,1,3,2
+195,DJFVD,no contact,1,9,5
+196,DNCIG,no contact,20,9,7
+197,DJFVD,no contact,1,9,5
+198,DJFVD,no contact,9,16,2
+199,DNCIG,no contact,9,9,2
+200,DJFVD,no contact,9,9,2
+201,FVEVB,no contact,20,9,2
+202,DNCIG,no contact,9,3,5
+203,FVEVB,no contact,20,3,2
+204,DNCIG,no contact,1,3,7
+205,FVEVB,no contact,1,3,7
+206,FVEVB,no contact,1,3,7
+207,DNCIG,no contact,1,16,7
+208,FVEVB,no contact,20,16,2
+209,DNCIG,no contact,1,9,7
+210,FVNIW,no contact,20,3,7
+211,FVNIW,no contact,1,9,7
+212,FVEVB,no contact,1,9,5
+213,FVNIW,no contact,20,16,5
+214,DNCIG,no contact,1,3,5
+215,DNCIG,no contact,1,9,2
