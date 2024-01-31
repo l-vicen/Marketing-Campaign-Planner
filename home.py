@@ -27,7 +27,7 @@ class Sidebar:
 
     # Sidebar attribute Logo
     def sidebar_functionality(self):
-        st.sidebar.image('assets/tum.png')
+        st.sidebar.image('assets/analytics.png')
         st.sidebar.markdown('---')
 
     # Authors Section
